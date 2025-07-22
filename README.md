@@ -17,14 +17,22 @@ Save the token (you won’t see it again)
 
 ## Setup droplet
 ```bash
+# Install ubuntu dependencies
 apt-get update
 apt-get install python3
+apt install python3.12-venv -y
+# Clone the repo
 git clone https://<fine-grained-token>@github.com/GeorgeNagel/childcare-vt-search.git
 cd childcare-vt-search
+# Create virtualenv
+python3 -m venv venv
+# Install dependencies
+source venv/bin/activate
+(venv) pip install -r requirements.txt
 ```
-### Add token to github helper
-`git config --global credential.helper store`
-Push once manually, then enter username (github username) and password (token)
+
+## Test the script
+`python3 collect_site_urls.py`
 
 ## TODO
 - Deploy scraper to Droplet

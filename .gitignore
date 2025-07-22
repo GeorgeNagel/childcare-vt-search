@@ -1,5 +1,2 @@
 # Python virtual environment
 venv
-# Output files
-*.csv
-*.json

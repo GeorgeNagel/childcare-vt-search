@@ -35,7 +35,6 @@ source venv/bin/activate
 `python3 collect_site_urls.py`
 
 ## TODO
-- Deploy scraper to Droplet
 - Cron job to run scraper daily
 - Cron job to run aggregator daily
 - Cron job to push data to github daily

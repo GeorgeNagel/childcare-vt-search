@@ -69,8 +69,15 @@ for i, url in enumerate(urls, 1):
 
     name = get_text_by_xpath(XPATH_NAME)
     address = get_text_by_xpath(XPATH_ADDRESS)
-    infant = get_text_by_xpath(XPATH_INFANT_VACANCY)
-    toddler = get_text_by_xpath(XPATH_TODDLER_VACANCY)
+    try:
+        infant = int(get_text_by_xpath(XPATH_INFANT_VACANCY))
+    except ValueError
+        infant = 0
+    
+    try:
+        toddler = int(get_text_by_xpath(XPATH_TODDLER_VACANCY))
+    except ValueError
+        toddler = 0
 
     # Check if an output file already exists for this provider
     filename = slugify(name) + ".json"
@@ -84,6 +91,7 @@ for i, url in enumerate(urls, 1):
         availability = {}
 
     todays_date = date.today().isoformat()
+    
     current_availability = {
         "infant": int(infant),
         "toddler": int(toddler),

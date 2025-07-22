@@ -22,6 +22,9 @@ apt-get install python3
 git clone https://<fine-grained-token>@github.com/GeorgeNagel/childcare-vt-search.git
 cd childcare-vt-search
 ```
+### Add token to github helper
+`git config --global credential.helper store`
+Push once manually, then enter username (github username) and password (token)
 
 ## TODO
 - Deploy scraper to Droplet

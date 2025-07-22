@@ -2,7 +2,7 @@ import subprocess
 import os
 from datetime import datetime
 
-subprocess.run(["python3", "aggregate_statistics"], check=True)
+subprocess.run(["python3", "aggregate_statistics.py"], check=True)
 
 subprocess.run(["git", "add", "."], check=True)
 subprocess.run(

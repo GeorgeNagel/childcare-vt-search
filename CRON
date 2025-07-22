@@ -1,6 +1,8 @@
 # Every 10 minutes, check for changes, commit and push
-*/10 * * * * cd /path/to/repo && git pull origin master && git add . && git commit -m "Auto update $(date)" && git push
+*/10 * * * * cd /root/childcare-vt-search && git pull origin master && git add . && git commit -m "Auto update $(date)" && git push
 # Every morning at 8am, update the providers list
 0 8 * * * cd /root/childcare-vt-search && venv/bin/python collect_site_urls.py
 # Every morning at 8:30, update the details for each provider
-30 8 * * * cd /path/to/repo && venv/bin/python collect_site_details.py
+30 8 * * * cd /root/childcare-vt-search && venv/bin/python collect_site_details.py
+# Every morning at 9:00, aggregate statistics and push to github
+30 8 * * * cd /root/childcare-vt-search && venv/bin/python aggregate_and_push.py

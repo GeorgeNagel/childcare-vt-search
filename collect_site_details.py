@@ -71,12 +71,12 @@ for i, url in enumerate(urls, 1):
     address = get_text_by_xpath(XPATH_ADDRESS)
     try:
         infant = int(get_text_by_xpath(XPATH_INFANT_VACANCY))
-    except ValueError
+    except ValueError:
         infant = 0
-    
+
     try:
         toddler = int(get_text_by_xpath(XPATH_TODDLER_VACANCY))
-    except ValueError
+    except ValueError:
         toddler = 0
 
     # Check if an output file already exists for this provider
@@ -91,7 +91,7 @@ for i, url in enumerate(urls, 1):
         availability = {}
 
     todays_date = date.today().isoformat()
-    
+
     current_availability = {
         "infant": int(infant),
         "toddler": int(toddler),

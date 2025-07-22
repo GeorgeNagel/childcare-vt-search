@@ -1,20 +1,24 @@
+import time
+import csv
+from pathlib import Path
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select, WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import time
-import csv
 
 chrome_options = Options()
 chrome_options.add_argument("--allow-insecure-localhost")
 chrome_options.add_argument("--ignore-certificate-errors")
 chrome_options.add_argument("--disable-web-security")
+chrome_options.add_argument("--headless")
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
 chrome_options.add_argument(
     "--unsafely-treat-insecure-origin-as-secure=http://www.brightfutures.dcf.state.vt.us"
 )
 chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-
 
 # --- Configurable Constants ---
 URL = "http://www.brightfutures.dcf.state.vt.us/vtcc/reset.do?0Mmr3gjumkz13-SgYEjWekr3%3dxguw3YEa.aU7zaju.xnn.xGOOF-Oq-Gq%2bSS%256UOq%256UhS.0DGgwEkeUs3peYY.wjRszYgwUVm3kmLmkkUs_umUkYAgsUWVjUVm3mWgwkmpwUVm31mLUjsegkz13SG0DqOqGqS0FO_SD"
@@ -23,6 +27,7 @@ TOWN_VALUE = (
     "East Montpelier"  # dropdown <option value="..."> value attribute, not the label
 )
 OUTPUT_CSV = "links.csv"
+DATA_DIRECTORY = "data"
 
 # --- Selectors ---
 DISTANCE_INPUT_ID = "field_distance3"
@@ -66,10 +71,12 @@ while True:
         break
 
 # --- Write to CSV ---
-with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
+path = Path(DATA_DIRECTORY)
+path.mkdir(parents=True, exist_ok=True)
+with open(path / OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
     for link in all_links:
         writer.writerow([link])
 
-print(f"\n✅ Saved {len(all_links)} links to {OUTPUT_CSV}")
+print(f"\n✅ Saved {len(all_links)} links to {path / OUTPUT_CSV}")
 driver.quit()

@@ -31,6 +31,9 @@ source venv/bin/activate
 (venv) pip install -r requirements.txt
 ```
 
+## Update crontab
+`crontab -e`
+
 ## Test the script
 `python3 collect_site_urls.py`
 

@@ -4,7 +4,8 @@ from collections import defaultdict
 
 DATA_FOLDER = Path("data")
 DETAILS_DATA_FOLDER = DATA_FOLDER / "details"
-OUTPUT_PATH = DATA_FOLDER / "statistics.json"
+DOCS_FOLDER = Path("docs")
+OUTPUT_PATH = DOCS_FOLDER / "statistics.json"
 aggregate = defaultdict(lambda: {"infant": 0, "toddler": 0})
 
 for file in DETAILS_DATA_FOLDER.glob("*.json"):

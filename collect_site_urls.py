@@ -22,7 +22,7 @@ chrome_options.add_argument("--disable-blink-features=AutomationControlled")
 
 # --- Configurable Constants ---
 URL = "http://www.brightfutures.dcf.state.vt.us/vtcc/reset.do?0Mmr3gjumkz13-SgYEjWekr3%3dxguw3YEa.aU7zaju.xnn.xGOOF-Oq-Gq%2bSS%256UOq%256UhS.0DGgwEkeUs3peYY.wjRszYgwUVm3kmLmkkUs_umUkYAgsUWVjUVm3mWgwkmpwUVm31mLUjsegkz13SG0DqOqGqS0FO_SD"
-DISTANCE = "30"  # miles
+DISTANCE = "15"  # miles
 TOWN_VALUE = (
     "East Montpelier"  # dropdown <option value="..."> value attribute, not the label
 )

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Y School Age Program at Brookside Primary School",
+    "address": "47 Stowe Street\nBrookside Primary School\nWaterbury, VT 05671\nCity: Waterbury",
+    "slug": "y-school-age-program-at-brookside-primary-school"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

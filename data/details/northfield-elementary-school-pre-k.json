@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Northfield Elementary School Pre-K",
+    "address": "10 Cross Street\nNorthfield, VT 05663\nCity: Northfield",
+    "slug": "northfield-elementary-school-pre-k"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

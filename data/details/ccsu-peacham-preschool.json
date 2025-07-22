@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "CCSU Peacham Preschool",
+    "address": "340 Bailey Hazen Road\nPeacham School\nPeacham, VT 05828\nCity: Peacham",
+    "slug": "ccsu-peacham-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

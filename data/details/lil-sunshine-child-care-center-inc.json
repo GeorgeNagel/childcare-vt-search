@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Lil' Sunshine Child Care Center, Inc",
+    "address": "32 North Main Street\nRandolph, VT 05060\nCity: Randolph",
+    "slug": "lil-sunshine-child-care-center-inc"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

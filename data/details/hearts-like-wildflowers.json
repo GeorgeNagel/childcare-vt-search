@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Hearts Like Wildflowers",
+    "address": "22 Wilson Street\nBarre Town, VT 05641\nCity: South Barre",
+    "slug": "hearts-like-wildflowers"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

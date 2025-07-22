@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Stevens, Theresa",
+    "address": "161 Fenoff Circle\nSt Johnsbury, VT 05819\nCity: St Johnsbury",
+    "slug": "stevens-theresa"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 1,
+      "toddler": 1
+    }
+  }
+}

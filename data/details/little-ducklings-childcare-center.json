@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Little Ducklings Childcare Center",
+    "address": "29 George Hill Road\nJohnson, VT 05656\nCity: Johnson",
+    "slug": "little-ducklings-childcare-center"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 3,
+      "toddler": 3
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Priddy, Tina",
+    "address": "16 Maplewood Ave\nBarre City, VT 05641\nCity: Barre",
+    "slug": "priddy-tina"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 2
+    }
+  }
+}

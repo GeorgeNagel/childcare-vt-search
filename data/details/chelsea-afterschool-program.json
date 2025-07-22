@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Chelsea Afterschool Program",
+    "address": "6 School Street\nChelsea, VT 05038\nCity: Chelsea",
+    "slug": "chelsea-afterschool-program"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

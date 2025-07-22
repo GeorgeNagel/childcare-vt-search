@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Davis, Shannon",
+    "address": "287 North Calais Rd\nCalais, VT 05650\nCity: East Calais",
+    "slug": "davis-shannon"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 1
+    }
+  }
+}

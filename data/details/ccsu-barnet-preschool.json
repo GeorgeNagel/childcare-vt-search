@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "CCSU Barnet Preschool",
+    "address": "163 Kid Row\nBarnet, VT 05828\nCity: Barnet",
+    "slug": "ccsu-barnet-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

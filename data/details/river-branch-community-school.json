@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "River Branch Community School",
+    "address": "397 Main Street\nOld Duxbury Elementary School\nWaterbury, VT 05676\nCity: Waterbury",
+    "slug": "river-branch-community-school"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

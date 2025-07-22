@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Good Shepherd Catholic School - Summer Street",
+    "address": "506 Summer St.\nSt Johnsbury, VT 05819\nCity: St Johnsbury",
+    "slug": "good-shepherd-catholic-school-summer-street"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

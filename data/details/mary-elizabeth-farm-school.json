@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Mary Elizabeth Farm School",
+    "address": "1727 Lower Pleasant Valley Road\nCambridge, VT 05444\nCity: Cambridge",
+    "slug": "mary-elizabeth-farm-school"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Lincoln Cooperative Preschool, Inc.",
+    "address": "876 East River Road\nLincoln, VT 05443\nCity: Lincoln",
+    "slug": "lincoln-cooperative-preschool-inc"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

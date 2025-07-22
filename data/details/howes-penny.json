@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Howes, Penny",
+    "address": "54 Lake View Terrace\nWaterbury, VT 05676\nCity: Waterbury",
+    "slug": "howes-penny"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

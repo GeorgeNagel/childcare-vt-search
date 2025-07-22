@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Quarry Kids Academy LLC",
+    "address": "129 Mill Street\nBarre Town, VT 05641\nCity: Barre",
+    "slug": "quarry-kids-academy-llc"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

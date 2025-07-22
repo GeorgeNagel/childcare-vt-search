@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Silk, Heather",
+    "address": "5 Beech Street\nBarre City, VT 05641\nCity: Barre",
+    "slug": "silk-heather"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

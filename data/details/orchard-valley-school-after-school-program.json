@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Orchard Valley School After School Program",
+    "address": "2290 VT Route 14 N\nEast Montpelier, VT 05651\nCity: East Montpelier",
+    "slug": "orchard-valley-school-after-school-program"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

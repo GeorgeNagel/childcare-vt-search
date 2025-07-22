@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "MAUSD-Robinson Elementary School",
+    "address": "41 Parsonage Road\nStarksboro, VT 05487\nCity: Starksboro",
+    "slug": "mausd-robinson-elementary-school"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

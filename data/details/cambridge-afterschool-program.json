@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Cambridge Afterschool Program",
+    "address": "186 School Street\nCambridge, VT 05464\nCity: Jeffersonville",
+    "slug": "cambridge-afterschool-program"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

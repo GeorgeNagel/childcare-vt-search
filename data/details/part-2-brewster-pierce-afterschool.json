@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Part 2: Brewster Pierce Afterschool",
+    "address": "120 School Street\nHuntington, VT 05462\nCity: Huntington",
+    "slug": "part-2-brewster-pierce-afterschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

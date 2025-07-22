@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "LaFlam, Daisy",
+    "address": "1806 Baptist st\nWilliamstown, VT 05679\nCity: Williamstown",
+    "slug": "laflam-daisy"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 2
+    }
+  }
+}

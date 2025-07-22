@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Smilie Preschool Program",
+    "address": "2712 Theodore Roosevelt Hwy\nBolton, VT 05676\nCity: Bolton",
+    "slug": "smilie-preschool-program"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

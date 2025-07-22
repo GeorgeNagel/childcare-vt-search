@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "OSSD Braintree After School Program",
+    "address": "66 Bent Hill Road\nBraintree, VT 05060\nCity: Braintree",
+    "slug": "ossd-braintree-after-school-program"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

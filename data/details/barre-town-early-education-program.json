@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Barre Town Early Education Program",
+    "address": "70 Websterville Road\nBarre Town, VT 05641\nCity: Barre",
+    "slug": "barre-town-early-education-program"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

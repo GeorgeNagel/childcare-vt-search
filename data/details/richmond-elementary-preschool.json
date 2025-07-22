@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Richmond Elementary Preschool",
+    "address": "125 School Street\nRichmond, VT 05477\nCity: Richmond",
+    "slug": "richmond-elementary-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Montessori School of Central Vermont",
+    "address": "84 Pine Hill Rd\nBarre Town, VT 05641\nCity: Barre",
+    "slug": "montessori-school-of-central-vermont"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Doty Memorial Preschool",
+    "address": "24 Calais Road\nWorcester, VT 05682\nCity: Worcester",
+    "slug": "doty-memorial-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

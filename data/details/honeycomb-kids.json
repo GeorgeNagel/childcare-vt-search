@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Honeycomb Kids",
+    "address": "134 Lily Pond Circle\nRichmond, VT 05477\nCity: Richmond",
+    "slug": "honeycomb-kids"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

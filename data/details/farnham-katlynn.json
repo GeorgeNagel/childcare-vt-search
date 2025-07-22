@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Farnham, Katlynn",
+    "address": "62 Duke Street\nSt Johnsbury, VT 05819\nCity: St Johnsbury",
+    "slug": "farnham-katlynn"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 4
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Perry, Heaven",
+    "address": "28 Penny Lane\nStannard, VT 05842\nCity: Stannard",
+    "slug": "perry-heaven"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

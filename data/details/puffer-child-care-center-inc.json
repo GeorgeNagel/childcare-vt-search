@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Puffer Child Care Center, Inc.",
+    "address": "228 Industrial Park Drive\nMorrisville, VT 05661\nCity: Morrisville",
+    "slug": "puffer-child-care-center-inc"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

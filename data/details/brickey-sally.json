@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Brickey, Sally",
+    "address": "231 Bunker Hill Circle\nPlainfield, VT 05667\nCity: Plainfield",
+    "slug": "brickey-sally"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

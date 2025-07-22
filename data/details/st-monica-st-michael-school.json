@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "ST. Monica - ST. Michael School",
+    "address": "79 Summer Street\nBarre City, VT 05641\nCity: Barre City",
+    "slug": "st-monica-st-michael-school"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

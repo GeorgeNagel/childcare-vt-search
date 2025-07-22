@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Barnet School Afterschool Program",
+    "address": "163 Kid Row\n1971\nBarnet, VT 05821\nCity: Barnet",
+    "slug": "barnet-school-afterschool-program"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

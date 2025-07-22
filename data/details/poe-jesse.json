@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Poe, Jesse",
+    "address": "92 Snow Road\nBrookfield, VT 05036\nCity: Brookfield",
+    "slug": "poe-jesse"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

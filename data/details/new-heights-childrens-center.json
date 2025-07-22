@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "New Heights Children's Center",
+    "address": "54 Sterling Court\nMorrisville, VT 05661\nCity: Morrisville",
+    "slug": "new-heights-childrens-center"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 2,
+      "toddler": 0
+    }
+  }
+}

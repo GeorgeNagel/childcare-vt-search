@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Washington Village School Pre-K",
+    "address": "72 School Lane\nWashington, VT 05675\nCity: Washington",
+    "slug": "washington-village-school-pre-k"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

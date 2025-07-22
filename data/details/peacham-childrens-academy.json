@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Peacham Children's Academy",
+    "address": "56 Church Street\nPeacham, VT 05862\nCity: Peacham",
+    "slug": "peacham-childrens-academy"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

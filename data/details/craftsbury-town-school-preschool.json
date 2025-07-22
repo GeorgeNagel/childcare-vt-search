@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Craftsbury Town School Preschool",
+    "address": "84 North Craftsbury Road\nCraftsbury, VT 05826\nCity: Craftsbury",
+    "slug": "craftsbury-town-school-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Otis, Linda",
+    "address": "31 Palmisano Plaza\nBarre City, VT 05641\nCity: Barre City",
+    "slug": "otis-linda"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

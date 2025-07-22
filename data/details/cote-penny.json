@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Cote, Penny",
+    "address": "321 Lower Main Street\nJohnson, VT 05656\nCity: Johnson",
+    "slug": "cote-penny"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

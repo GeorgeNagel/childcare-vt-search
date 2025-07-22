@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Peacham Afterschool Learning (PAL)",
+    "address": "340 Bayley Hazen Road\nPeacham, VT 05862\nCity: Peacham",
+    "slug": "peacham-afterschool-learning-pal"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

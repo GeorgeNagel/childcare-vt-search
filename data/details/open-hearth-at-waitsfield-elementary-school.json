@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Open Hearth At Waitsfield Elementary School",
+    "address": "3951 Main Street\nWaitsfield, VT 05673\nCity: Waitsfield",
+    "slug": "open-hearth-at-waitsfield-elementary-school"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

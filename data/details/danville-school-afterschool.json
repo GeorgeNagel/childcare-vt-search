@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Danville School Afterschool",
+    "address": "148 Peacham Road\nDanville, VT 05828\nCity: Danville",
+    "slug": "danville-school-afterschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

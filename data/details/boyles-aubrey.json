@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Boyles, Aubrey",
+    "address": "37 Loomis Street\nMontpelier, VT 05602\nCity: Montpelier",
+    "slug": "boyles-aubrey"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 1,
+      "toddler": 1
+    }
+  }
+}

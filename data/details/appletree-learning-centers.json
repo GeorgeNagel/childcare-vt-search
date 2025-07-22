@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Appletree Learning Centers",
+    "address": "1056 Mountain Road\nSuite 16\nStowe, VT 05672\nCity: Stowe",
+    "slug": "appletree-learning-centers"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

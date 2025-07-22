@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Mountain Village School Annex",
+    "address": "512 Mountain Road\nPO Box 1432\nStowe, VT 05672\nCity: Stowe",
+    "slug": "mountain-village-school-annex"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

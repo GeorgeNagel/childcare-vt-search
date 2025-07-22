@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Martin, Kim",
+    "address": "5 Taplin Street\nMontpelier, VT 05602\nCity: Montpelier",
+    "slug": "martin-kim"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 1
+    }
+  }
+}

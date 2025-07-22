@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Apple Tree Learning Centers Afterschool",
+    "address": "254 Park Street\nStowe Elementary\nStowe, VT 05672\nCity: Stowe",
+    "slug": "apple-tree-learning-centers-afterschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

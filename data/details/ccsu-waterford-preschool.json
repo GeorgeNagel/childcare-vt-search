@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "CCSU Waterford Preschool",
+    "address": "276 Duck Pond Road\nWaterford, VT 05819\nCity: Waterford",
+    "slug": "ccsu-waterford-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

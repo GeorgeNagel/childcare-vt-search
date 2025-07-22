@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Little Flock Nursery and Preschool",
+    "address": "143 Church Hill Rd\nPO Box 1\nBarre Town, VT 05678\nCity: Websterville",
+    "slug": "little-flock-nursery-and-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

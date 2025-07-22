@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Wasilewski, Jennifer",
+    "address": "203 River Road\nSt Johnsbury, VT 05819\nCity: St Johnsbury",
+    "slug": "wasilewski-jennifer"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 1
+    }
+  }
+}

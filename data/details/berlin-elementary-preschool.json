@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Berlin Elementary Preschool",
+    "address": "372 Paine Turnpike\nBerlin, VT 05602\nCity: Berlin",
+    "slug": "berlin-elementary-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

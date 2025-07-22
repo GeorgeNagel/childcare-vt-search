@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Hunger Mountain Children's Center",
+    "address": "123 South Main Street\nWaterbury, VT 05676\nCity: Waterbury",
+    "slug": "hunger-mountain-childrens-center"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

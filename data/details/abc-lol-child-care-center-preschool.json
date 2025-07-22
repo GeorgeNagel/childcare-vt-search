@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "ABC & LOL Child Care Center & Preschool",
+    "address": "1448 Memorial Drive\nSt Johnsbury, VT 05819\nCity: St Johnsbury",
+    "slug": "abc-lol-child-care-center-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

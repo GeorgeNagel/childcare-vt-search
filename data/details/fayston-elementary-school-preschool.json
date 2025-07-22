@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Fayston Elementary School Preschool",
+    "address": "782 German Flats Road\nFayston, VT 05673\nCity: Fayston",
+    "slug": "fayston-elementary-school-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

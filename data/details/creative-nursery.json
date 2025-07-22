@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Creative Nursery",
+    "address": "230 Justin Morrill Memorial Highway\nStrafford, VT 05072\nCity: Strafford",
+    "slug": "creative-nursery"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

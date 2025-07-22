@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Y School Age Program at Barre City",
+    "address": "Barre City School\n50 Parkside Terrace\nBarre City, VT 05641\nCity: Barre City",
+    "slug": "y-school-age-program-at-barre-city"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

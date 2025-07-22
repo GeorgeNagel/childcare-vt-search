@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Moretown Elementary School Preschool",
+    "address": "940 Route 100B\nMoretown, VT 05660\nCity: Moretown",
+    "slug": "moretown-elementary-school-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

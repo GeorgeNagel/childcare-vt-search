@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Brewster Pierce Memorial School",
+    "address": "120 School Street\nHuntington, VT 05462\nCity: Huntington",
+    "slug": "brewster-pierce-memorial-school"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

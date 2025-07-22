@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Barre City Preschool Programs",
+    "address": "50 Parkside Terrace\nBarre City Elementary and Middle School\nBarre City, VT 05641\nCity: Barre",
+    "slug": "barre-city-preschool-programs"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

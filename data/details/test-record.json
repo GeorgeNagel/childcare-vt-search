@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Test, Record",
+    "address": "111 Fairytale Lane\nTest Apartment 1\nBuel's Gore, VT 05841\nCity: Buels Gore",
+    "slug": "test-record"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

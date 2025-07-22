@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "My Second Home",
+    "address": "462 Lake Morey Road\nBradford, VT 05033\nCity: Bradford",
+    "slug": "my-second-home"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

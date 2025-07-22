@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "CCSU Cabot Preschool",
+    "address": "51 Gym Road\nCabot, VT 05647\nCity: Cabot",
+    "slug": "ccsu-cabot-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

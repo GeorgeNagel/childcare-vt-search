@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Part 2 - Camel's Hump",
+    "address": "173 School Street\nRichmond, VT 05477\nCity: Richmond",
+    "slug": "part-2-camels-hump"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

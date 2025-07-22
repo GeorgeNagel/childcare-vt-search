@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Montpelier Children's House",
+    "address": "24 Mountainview Street\nMontpelier, VT 05602\nCity: Montpelier",
+    "slug": "montpelier-childrens-house"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

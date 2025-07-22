@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Natural Wonders Childcare, LLC",
+    "address": "646 Turkey Hill Road\nNorthfield, VT 05663\nCity: Northfield",
+    "slug": "natural-wonders-childcare-llc"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

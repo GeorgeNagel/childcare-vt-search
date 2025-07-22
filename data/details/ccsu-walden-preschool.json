@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "CCSU Walden Preschool",
+    "address": "135 Cahoon Farm Road\nWalden, VT 05873\nCity: West Danville",
+    "slug": "ccsu-walden-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Orchard Valley Waldorf School",
+    "address": "2290 VT Rte 14 N\nEast Montpelier, VT 05651\nCity: East Montpelier",
+    "slug": "orchard-valley-waldorf-school"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

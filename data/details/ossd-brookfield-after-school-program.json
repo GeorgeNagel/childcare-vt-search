@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "OSSD Brookfield After School Program",
+    "address": "1728 North Ridge Road\nBrookfield, VT 05036\nCity: Brookfield",
+    "slug": "ossd-brookfield-after-school-program"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

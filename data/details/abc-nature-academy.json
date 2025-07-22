@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "ABC Nature Academy",
+    "address": "1404 Memorial Drive\nSt Johnsbury, VT 05819\nCity: St Johnsbury",
+    "slug": "abc-nature-academy"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

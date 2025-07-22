@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Twinfield Union School After School Program",
+    "address": "105 Nasmith Brook Road\nTwinfield Union Elementary School\nPlainfield, VT 05667\nCity: Plainfield",
+    "slug": "twinfield-union-school-after-school-program"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

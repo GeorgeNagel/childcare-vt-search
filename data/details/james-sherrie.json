@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "James, Sherrie",
+    "address": "236 Spruce Haven Road\nWaterbury, VT 05677\nCity: Waterbury Center",
+    "slug": "james-sherrie"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

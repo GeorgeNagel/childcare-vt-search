@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Brookside Primary School",
+    "address": "47 Stowe Street\nWaterbury, VT 05676\nCity: Waterbury",
+    "slug": "brookside-primary-school"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

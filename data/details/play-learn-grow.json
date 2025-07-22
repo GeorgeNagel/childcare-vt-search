@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Play Learn Grow",
+    "address": "17 E Parkside Terr\nBarre City, VT 05641\nCity: Barre",
+    "slug": "play-learn-grow"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 2
+    }
+  }
+}

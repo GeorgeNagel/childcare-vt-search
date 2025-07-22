@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Sugarbush Day School",
+    "address": "80 Sugarbush Village Drive\nWarren, VT 05674\nCity: Warren",
+    "slug": "sugarbush-day-school"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

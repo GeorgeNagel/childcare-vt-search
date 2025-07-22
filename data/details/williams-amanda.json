@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Williams, Amanda",
+    "address": "36 Penny Lane\nStannard, VT 05842\nCity: Stannard",
+    "slug": "williams-amanda"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 2,
+      "toddler": 1
+    }
+  }
+}

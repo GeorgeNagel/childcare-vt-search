@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Crandall, Katie",
+    "address": "192 Birchwood Drive\nRyegate, VT 05042\nCity: East Ryegate",
+    "slug": "crandall-katie"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 2
+    }
+  }
+}

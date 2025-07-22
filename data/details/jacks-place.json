@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Jacks Place",
+    "address": "14 Nichols Street\nBarre City, VT 05641\nCity: Barre",
+    "slug": "jacks-place"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Part 2 - Hinesburg",
+    "address": "10888 Rte 116\nHinesburg, VT 05461\nCity: Hinesburg",
+    "slug": "part-2-hinesburg"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

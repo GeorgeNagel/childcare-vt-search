@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Cambridge Elementary Early Childhood Program",
+    "address": "186 School Street\nCambridge, VT 05464\nCity: Jeffersonville",
+    "slug": "cambridge-elementary-early-childhood-program"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

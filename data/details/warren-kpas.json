@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Warren KPAS",
+    "address": "293 School Road\nWarren, VT 05674\nCity: Warren",
+    "slug": "warren-kpas"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

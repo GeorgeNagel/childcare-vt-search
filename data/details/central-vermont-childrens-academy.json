@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Central Vermont Children's Academy",
+    "address": "652 Granger Road\nSuite 5\nBerlin, VT 05641\nCity: Berlin",
+    "slug": "central-vermont-childrens-academy"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

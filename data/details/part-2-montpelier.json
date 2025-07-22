@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Part 2 - Montpelier",
+    "address": "1 Park Ave\nMontpelier, VT 05602\nCity: Montpelier",
+    "slug": "part-2-montpelier"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

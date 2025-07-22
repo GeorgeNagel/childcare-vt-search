@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Rainbow Gardens",
+    "address": "168 North Main Street\nSuite 4\nNorthfield, VT 05663\nCity: Northfield",
+    "slug": "rainbow-gardens"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Cabot Children's Center",
+    "address": "2 Common Road\nCabot, VT 05647\nCity: Cabot",
+    "slug": "cabot-childrens-center"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

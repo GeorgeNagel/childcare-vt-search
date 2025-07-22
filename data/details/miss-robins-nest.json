@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Miss Robin's Nest",
+    "address": "9 Dunpatrick Circle\nMontpelier, VT 05602\nCity: Montpelier",
+    "slug": "miss-robins-nest"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

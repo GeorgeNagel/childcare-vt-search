@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Bliss, Jennifer",
+    "address": "39 Durkee Drive\nCalais, VT 05648\nCity: Calais",
+    "slug": "bliss-jennifer"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 1,
+      "toddler": 1
+    }
+  }
+}

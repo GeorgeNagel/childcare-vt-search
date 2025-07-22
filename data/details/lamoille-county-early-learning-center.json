@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Lamoille County Early Learning Center",
+    "address": "250 Industrial Park Drive\nMorrisville, VT 05661\nCity: Morrisville",
+    "slug": "lamoille-county-early-learning-center"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

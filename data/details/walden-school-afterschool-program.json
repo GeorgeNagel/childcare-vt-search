@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Walden School Afterschool Program",
+    "address": "Walden School\n135 Cahoon Farm Road\nWalden, VT 05873\nCity: Walden",
+    "slug": "walden-school-afterschool-program"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Place, Ashlee",
+    "address": "1533 US Rte 2\nWaterbury, VT 05676\nCity: Waterbury",
+    "slug": "place-ashlee"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

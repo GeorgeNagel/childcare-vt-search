@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "CCSU Twinfield Preschool",
+    "address": "106 Nasmith Brook Road\nPlainfield, VT 05667\nCity: Plainfield",
+    "slug": "ccsu-twinfield-preschool"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

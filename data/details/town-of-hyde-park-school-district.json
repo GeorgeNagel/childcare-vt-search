@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Town of Hyde Park School District",
+    "address": "50 East Main Street\nHyde Park, VT 05655\nCity: Hyde Park",
+    "slug": "town-of-hyde-park-school-district"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

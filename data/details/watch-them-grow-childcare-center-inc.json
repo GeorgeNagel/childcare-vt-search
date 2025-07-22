@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Watch Them Grow Childcare Center Inc.",
+    "address": "36 Oxbow Drive\nBradford, VT 05033\nCity: Bradford",
+    "slug": "watch-them-grow-childcare-center-inc"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 1,
+      "toddler": 4
+    }
+  }
+}

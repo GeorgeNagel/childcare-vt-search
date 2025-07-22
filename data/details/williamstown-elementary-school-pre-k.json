@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Williamstown Elementary School Pre-K",
+    "address": "100 Brush Hill Road\nWilliamstown, VT 05679\nCity: Williamstown",
+    "slug": "williamstown-elementary-school-pre-k"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

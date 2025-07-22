@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "R & B Tiny Tykes Daycare",
+    "address": "2791 Stock Farm Rd\nRandolph, VT 05060\nCity: Randolph",
+    "slug": "r-b-tiny-tykes-daycare"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

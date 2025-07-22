@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Clubhouse Kids",
+    "address": "1092 Park Street\nMorrisville, VT 05661\nCity: Morrisville",
+    "slug": "clubhouse-kids"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Apple Tree Learning Centers at MES",
+    "address": "548 Park Street\nMorrisville, VT 05661\nCity: Morrisville",
+    "slug": "apple-tree-learning-centers-at-mes"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

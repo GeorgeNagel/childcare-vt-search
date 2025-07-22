@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "OSSD Randolph Elementary After School Program",
+    "address": "40 Ayers Brook Road\nRandolph, VT 05060\nCity: Randolph",
+    "slug": "ossd-randolph-elementary-after-school-program"
+  },
+  "availability": {
+    "2025-07-22": {
+      "infant": 0,
+      "toddler": 0
+    }
+  }
+}

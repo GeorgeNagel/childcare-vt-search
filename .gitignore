@@ -2,3 +2,4 @@
 venv
 # Output files
 *.csv
+*.json

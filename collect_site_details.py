@@ -12,7 +12,8 @@ from selenium.webdriver.common.by import By
 # --- Input and Output ---
 INPUT_CSV = "links.csv"
 DATA_DIRECTORY = "data"
-OUTPUT_CSV = "daycare_details.csv"
+OUTPUT_DIRECTORY = Path(DATA_DIRECTORY) / "details"
+OUTPUT_DIRECTORY.mkdir(parents=True, exist_ok=True)
 
 # --- Hardcoded XPaths (based on your input) ---
 XPATH_NAME = "/html/body/table[3]/tbody/tr/td/form/table/tbody/tr[1]/td/table/tbody/tr/td[1]/span[2]"
@@ -73,7 +74,7 @@ for i, url in enumerate(urls, 1):
 
     # Check if an output file already exists for this provider
     filename = slugify(name) + ".json"
-    output_path = data_path / filename
+    output_path = OUTPUT_DIRECTORY / filename
     metadata = {"name": name, "address": address, "slug": slugify(name)}
 
     if output_path.exists():
@@ -84,8 +85,8 @@ for i, url in enumerate(urls, 1):
 
     todays_date = date.today().isoformat()
     current_availability = {
-        "infant": infant,
-        "toddler": toddler,
+        "infant": int(infant),
+        "toddler": int(toddler),
     }
     availability[todays_date] = current_availability
 

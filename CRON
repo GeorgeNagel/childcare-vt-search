@@ -1,5 +1,5 @@
 # At 7am, pull the latest from github
-0 7 * * * * cd /root/childcare-vt-search && git pull origin master
+0 7 * * * cd /root/childcare-vt-search && git pull origin master
 # Every morning at 8am, update the providers list
 0 8 * * * cd /root/childcare-vt-search && venv/bin/python collect_site_urls.py
 # Every morning at 8:30, update the details for each provider

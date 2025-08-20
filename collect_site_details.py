@@ -24,6 +24,12 @@ XPATH_INFANT_VACANCY = (
 XPATH_TODDLER_VACANCY = (
     "/html/body/table[3]/tbody/tr/td/form/table/tbody/tr[6]/td/table/tbody/tr[3]/td[11]"
 )
+XPATH_INFANT_CAPACITY = (
+    "/html/body/table[3]/tbody/tr/td/form/table/tbody/tr[6]/td/table/tbody/tr[2]/td[5]"
+)
+XPATH_TODDLER_CAPACITY = (
+    "/html/body/table[3]/tbody/tr/td/form/table/tbody/tr[6]/td/table/tbody/tr[3]/td[5]"
+)
 
 # --- Initialize driver ---
 chrome_options = Options()
@@ -70,14 +76,24 @@ for i, url in enumerate(urls, 1):
     name = get_text_by_xpath(XPATH_NAME)
     address = get_text_by_xpath(XPATH_ADDRESS)
     try:
-        infant = int(get_text_by_xpath(XPATH_INFANT_VACANCY))
+        infant_availability = int(get_text_by_xpath(XPATH_INFANT_VACANCY))
     except ValueError:
-        infant = 0
+        infant_availability = 0
 
     try:
-        toddler = int(get_text_by_xpath(XPATH_TODDLER_VACANCY))
+        toddler_availability = int(get_text_by_xpath(XPATH_TODDLER_VACANCY))
     except ValueError:
-        toddler = 0
+        toddler_availability = 0
+
+    try:
+        infant_capacity = int(get_text_by_xpath(XPATH_INFANT_CAPACITY))
+    except ValueError:
+        infant_capacity = 0
+
+    try:
+        toddler_capacity = int(get_text_by_xpath(XPATH_TODDLER_CAPACITY))
+    except ValueError:
+        toddler_capacity = 0
 
     # Check if an output file already exists for this provider
     filename = slugify(name) + ".json"
@@ -86,20 +102,22 @@ for i, url in enumerate(urls, 1):
 
     if output_path.exists():
         with open(output_path, "r") as f:
-            availability = json.load(f)["availability"]
+            stats_by_date = json.load(f)["stats_by_date"]
     else:
-        availability = {}
+        stats_by_date = {}
 
     todays_date = date.today().isoformat()
 
-    current_availability = {
-        "infant": int(infant),
-        "toddler": int(toddler),
+    current_stats = {
+        "infant_availability": infant_availability,
+        "toddler_availability": toddler_availability,
+        "infant_capacity": infant_capacity,
+        "toddler_capacity": toddler_capacity,
     }
-    availability[todays_date] = current_availability
+    stats_by_date[todays_date] = current_stats
 
     with open(output_path, "w") as f:
-        output_data = {"metadata": metadata, "availability": availability}
+        output_data = {"metadata": metadata, "stats_by_date": stats_by_date}
         json.dump(output_data, f, indent=2)
 
     print(f"[{i}/{len(urls)}] Scraped: {name}")

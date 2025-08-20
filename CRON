@@ -5,4 +5,4 @@
 # Every morning at 8:30, update the details for each provider
 30 8 * * * cd /root/childcare-vt-search && venv/bin/python collect_site_details.py
 # Every morning at 9:00, aggregate statistics and push to github
-30 8 * * * cd /root/childcare-vt-search && venv/bin/python aggregate_and_push.py
+0 9 * * * cd /root/childcare-vt-search && venv/bin/python aggregate_and_push.py

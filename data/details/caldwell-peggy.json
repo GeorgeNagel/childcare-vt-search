@@ -4,26 +4,26 @@
     "address": "14 Rudd Farm Drive\nBarre Town, VT 05641\nCity: Barre Town",
     "slug": "caldwell-peggy"
   },
-  "availability": {
+  "stats_by_date": {
     "2025-07-22": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-07-23": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-07-24": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-07-25": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-07-26": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     }
   }
 }

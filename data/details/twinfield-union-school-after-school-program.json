@@ -4,102 +4,102 @@
     "address": "105 Nasmith Brook Road\nTwinfield Union Elementary School\nPlainfield, VT 05667\nCity: Plainfield",
     "slug": "twinfield-union-school-after-school-program"
   },
-  "availability": {
+  "stats_by_date": {
     "2025-07-22": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-07-23": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-07-24": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-07-25": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-07-26": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-07-29": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-07-30": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-07-31": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-01": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-02": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-05": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-06": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-07": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-08": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-09": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-12": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-13": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-14": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-15": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-16": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-17": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-18": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-19": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     },
     "2025-08-20": {
-      "infant": 0,
-      "toddler": 0
+      "infant_availability": 0,
+      "toddler_availability": 0
     }
   }
 }

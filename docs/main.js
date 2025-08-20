@@ -9,6 +9,9 @@ fetch("statistics.json")
     const infantCapacityData = dates.map(date => statsByDate[date]["infant_capacity"]);
     const toddlerCapacityData = dates.map(date => statsByDate[date]["toddler_capacity"]);
 
+    const placesWithCurrentInfantAvailability = data["places_with_infant_availability"]
+    const placesWIthCurrentToddlerAvailability = data["places_with_toddler_availability"]
+
     const ctx = document.getElementById('childcareStatsByDateChart').getContext('2d');
     new Chart(ctx, {
       type: 'line',
@@ -53,5 +56,29 @@ fetch("statistics.json")
         }
       }
     });
+
+    const currentInfantAvailabilityList = document.getElementById("infantAvailability");
+    if (Array.isArray(placesWithCurrentInfantAvailability)) {
+      placesWithCurrentInfantAvailability.forEach(name => {
+        const li = document.createElement("li");
+        li.textContent = name;
+        currentInfantAvailabilityList.appendChild(li);
+      });
+    } else {
+      console.error("No infant availability array found in statistics.json");
+    };
+
+    const currentToddlerAvailabilityList = document.getElementById("toddlerAvailability");
+    if (Array.isArray(placesWithCurrentToddlerAvailability)) {
+      placesWithCurrentToddlerAvailability.forEach(name => {
+        const li = document.createElement("li");
+        li.textContent = name;
+        currentToddlerAvailabilityList.appendChild(li);
+      });
+    } else {
+      console.error("No toddler availability array found in statistics.json");
+    };
+
+
   })
   .catch(error => console.error("Failed to load data:", error));

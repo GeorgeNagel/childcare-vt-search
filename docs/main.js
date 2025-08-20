@@ -10,7 +10,7 @@ fetch("statistics.json")
     const toddlerCapacityData = dates.map(date => statsByDate[date]["toddler_capacity"]);
 
     const placesWithCurrentInfantAvailability = data["places_with_infant_availability"]
-    const placesWIthCurrentToddlerAvailability = data["places_with_toddler_availability"]
+    const placesWithCurrentToddlerAvailability = data["places_with_toddler_availability"]
 
     const ctx = document.getElementById('childcareStatsByDateChart').getContext('2d');
     new Chart(ctx, {

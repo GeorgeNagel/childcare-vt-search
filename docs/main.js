@@ -30,14 +30,14 @@ fetch("statistics.json")
             fill: false,
           },
           {
-            label: 'Infant Availability',
+            label: 'Infant Capacity',
             data: infantCapacityData,
             borderColor: 'rgb(255, 119, 52)',
             backgroundColor: 'rgba(206, 140, 34, 0.2)',
             fill: false,
           },
           {
-            label: 'Toddler Availability',
+            label: 'Toddler Capacity',
             data: toddlerCapacityData,
             borderColor: 'rgb(202, 93, 245)',
             backgroundColor: 'rgba(180, 21, 191, 0.2)',

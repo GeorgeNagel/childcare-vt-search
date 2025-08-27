@@ -162,6 +162,12 @@
       "infant_capacity": 210,
       "toddler_capacity": 237
     },
+    "2025-08-27": {
+      "infant_availability": 2,
+      "toddler_availability": 22,
+      "infant_capacity": 210,
+      "toddler_capacity": 237
+    },
     "2025-08-24": {
       "infant_availability": 0,
       "toddler_availability": 0,
@@ -181,6 +187,23 @@
       "toddler_capacity": 0
     }
   },
-  "places_with_infant_availability": [],
-  "places_with_toddler_availability": []
+  "places_with_infant_availability": [
+    "Bliss, Jennifer",
+    "Blake, Debra"
+  ],
+  "places_with_toddler_availability": [
+    "Harriman, Pearl",
+    "Cano-Scribner, Tracy",
+    "Bliss, Jennifer",
+    "Play Learn Grow",
+    "Zydonyk, Tiffani",
+    "Davis, Shannon",
+    "Otis, Linda",
+    "Dunbar, Tristan",
+    "Priddy, Tina",
+    "Mudgett, Stacey",
+    "LaFlam, Daisy",
+    "Blake, Debra",
+    "Martin, Kim"
+  ]
 }

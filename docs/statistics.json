@@ -318,6 +318,12 @@
       "infant_capacity": 208,
       "toddler_capacity": 230
     },
+    "2025-09-24": {
+      "infant_availability": 3,
+      "toddler_availability": 21,
+      "infant_capacity": 208,
+      "toddler_capacity": 230
+    },
     "2025-08-24": {
       "infant_availability": 0,
       "toddler_availability": 0,

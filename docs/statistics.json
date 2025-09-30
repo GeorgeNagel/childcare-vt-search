@@ -354,6 +354,12 @@
       "infant_capacity": 209,
       "toddler_capacity": 232
     },
+    "2025-09-30": {
+      "infant_availability": 2,
+      "toddler_availability": 21,
+      "infant_capacity": 189,
+      "toddler_capacity": 212
+    },
     "2025-08-24": {
       "infant_availability": 0,
       "toddler_availability": 0,
@@ -398,7 +404,6 @@
     "Davis, Shannon",
     "Otis, Linda",
     "Dunbar, Tristan",
-    "Priddy, Tina",
     "Mudgett, Stacey",
     "Rider, Stacy",
     "Blake, Debra",

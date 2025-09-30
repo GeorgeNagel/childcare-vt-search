@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "name": "Turtle Island Children's Center, INC @ 203 CCR",
+    "address": "203 Country Club Road\nMontpelier, VT 05602\nCity: Montpelier",
+    "slug": "turtle-island-childrens-center-inc-203-ccr"
+  },
+  "stats_by_date": {
+    "2025-09-30": {
+      "infant_availability": 0,
+      "toddler_availability": 0,
+      "infant_capacity": 0,
+      "toddler_capacity": 0
+    }
+  }
+}

@@ -480,6 +480,12 @@
       "infant_capacity": 189,
       "toddler_capacity": 212
     },
+    "2025-10-21": {
+      "infant_availability": 1,
+      "toddler_availability": 21,
+      "infant_capacity": 189,
+      "toddler_capacity": 212
+    },
     "2025-08-24": {
       "infant_availability": 0,
       "toddler_availability": 0,
@@ -524,7 +530,6 @@
     "Otis, Linda",
     "Dunbar, Tristan",
     "Mudgett, Stacey",
-    "Rider, Stacy",
     "Blake, Debra",
     "Martin, Kim"
   ]

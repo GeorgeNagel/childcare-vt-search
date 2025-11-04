@@ -522,6 +522,12 @@
       "toddler_availability": 0,
       "infant_capacity": 0,
       "toddler_capacity": 10
+    },
+    "2025-11-04": {
+      "infant_availability": 0,
+      "toddler_availability": 0,
+      "infant_capacity": 0,
+      "toddler_capacity": 10
     }
   }
 }

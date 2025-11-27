@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "name": "Acorn Hollow Village School",
+    "address": "1075 Airport Road\nBerlin, VT 05602\nCity: Berlin",
+    "slug": "acorn-hollow-village-school"
+  },
+  "stats_by_date": {
+    "2025-11-27": {
+      "infant_availability": 0,
+      "toddler_availability": 0,
+      "infant_capacity": 0,
+      "toddler_capacity": 0
+    }
+  }
+}

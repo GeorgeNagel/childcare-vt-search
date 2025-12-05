@@ -750,6 +750,12 @@
       "infant_capacity": 188,
       "toddler_capacity": 214
     },
+    "2025-12-05": {
+      "infant_availability": 5,
+      "toddler_availability": 26,
+      "infant_capacity": 204,
+      "toddler_capacity": 221
+    },
     "2025-08-24": {
       "infant_availability": 0,
       "toddler_availability": 0,
@@ -782,7 +788,8 @@
     }
   },
   "places_with_infant_availability": [
-    "Bliss, Jennifer"
+    "Bliss, Jennifer",
+    "Quarry Kids Academy LLC"
   ],
   "places_with_toddler_availability": [
     "Harriman, Pearl",
@@ -791,12 +798,11 @@
     "Play Learn Grow",
     "Zydonyk, Tiffani",
     "Elliott, Fatima",
-    "Peacham Children's Academy",
+    "Quarry Kids Academy LLC",
     "Otis, Linda",
     "Dunbar, Tristan",
     "Darcy, Kristin",
     "Mudgett, Stacey",
-    "Blake, Debra",
     "Martin, Kim"
   ]
 }

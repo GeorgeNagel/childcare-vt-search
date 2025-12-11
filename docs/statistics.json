@@ -786,6 +786,12 @@
       "infant_capacity": 204,
       "toddler_capacity": 221
     },
+    "2025-12-11": {
+      "infant_availability": 5,
+      "toddler_availability": 23,
+      "infant_capacity": 202,
+      "toddler_capacity": 219
+    },
     "2025-08-24": {
       "infant_availability": 0,
       "toddler_availability": 0,
@@ -822,7 +828,6 @@
     "Quarry Kids Academy LLC"
   ],
   "places_with_toddler_availability": [
-    "Harriman, Pearl",
     "Cano-Scribner, Tracy",
     "Bliss, Jennifer",
     "Play Learn Grow",

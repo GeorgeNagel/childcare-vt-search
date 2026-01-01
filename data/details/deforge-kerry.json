@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "name": "Deforge, Kerry",
+    "address": "616 Barrows Road\nNorthfield, VT 05663\nCity: Northfield",
+    "slug": "deforge-kerry"
+  },
+  "stats_by_date": {
+    "2026-01-01": {
+      "infant_availability": 0,
+      "toddler_availability": 0,
+      "infant_capacity": 0,
+      "toddler_capacity": 0
+    }
+  }
+}

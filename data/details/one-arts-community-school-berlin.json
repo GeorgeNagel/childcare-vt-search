@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "name": "ONE Arts Community School Berlin",
+    "address": "439 Industrial Lane\nBerlin, VT 05602\nCity: Berlin",
+    "slug": "one-arts-community-school-berlin"
+  },
+  "stats_by_date": {
+    "2026-01-10": {
+      "infant_availability": 0,
+      "toddler_availability": 0,
+      "infant_capacity": 0,
+      "toddler_capacity": 0
+    }
+  }
+}

@@ -1086,6 +1086,12 @@
       "infant_capacity": 204,
       "toddler_capacity": 216
     },
+    "2026-01-30": {
+      "infant_availability": 7,
+      "toddler_availability": 21,
+      "infant_capacity": 204,
+      "toddler_capacity": 216
+    },
     "2025-08-24": {
       "infant_availability": 0,
       "toddler_availability": 0,
@@ -1119,6 +1125,7 @@
   },
   "places_with_infant_availability": [
     "Quarry Kids Academy LLC",
+    "Peacham Children's Academy",
     "MacAulay, Lynn"
   ],
   "places_with_toddler_availability": [
@@ -1126,6 +1133,7 @@
     "Zydonyk, Tiffani",
     "Elliott, Fatima",
     "Quarry Kids Academy LLC",
+    "Peacham Children's Academy",
     "Dunbar, Tristan",
     "MacAulay, Lynn",
     "Darcy, Kristin",

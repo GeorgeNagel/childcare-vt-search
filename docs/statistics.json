@@ -1092,6 +1092,12 @@
       "infant_capacity": 204,
       "toddler_capacity": 216
     },
+    "2026-01-31": {
+      "infant_availability": 7,
+      "toddler_availability": 20,
+      "infant_capacity": 202,
+      "toddler_capacity": 214
+    },
     "2025-08-24": {
       "infant_availability": 0,
       "toddler_availability": 0,
@@ -1134,7 +1140,6 @@
     "Elliott, Fatima",
     "Quarry Kids Academy LLC",
     "Peacham Children's Academy",
-    "Dunbar, Tristan",
     "MacAulay, Lynn",
     "Darcy, Kristin",
     "Martin, Kim"

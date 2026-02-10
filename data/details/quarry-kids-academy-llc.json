@@ -1110,6 +1110,12 @@
       "toddler_availability": 6,
       "infant_capacity": 16,
       "toddler_capacity": 7
+    },
+    "2026-02-10": {
+      "infant_availability": 4,
+      "toddler_availability": 6,
+      "infant_capacity": 16,
+      "toddler_capacity": 7
     }
   }
 }

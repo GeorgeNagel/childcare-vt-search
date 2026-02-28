@@ -1260,6 +1260,12 @@
       "infant_capacity": 202,
       "toddler_capacity": 214
     },
+    "2026-02-28": {
+      "infant_availability": 5,
+      "toddler_availability": 15,
+      "infant_capacity": 165,
+      "toddler_capacity": 176
+    },
     "2025-08-24": {
       "infant_availability": 0,
       "toddler_availability": 0,
@@ -1293,14 +1299,12 @@
   },
   "places_with_infant_availability": [
     "Quarry Kids Academy LLC",
-    "Peacham Children's Academy",
     "MacAulay, Lynn"
   ],
   "places_with_toddler_availability": [
     "Play Learn Grow",
     "Zydonyk, Tiffani",
     "Quarry Kids Academy LLC",
-    "Peacham Children's Academy",
     "MacAulay, Lynn",
     "Darcy, Kristin",
     "Martin, Kim"

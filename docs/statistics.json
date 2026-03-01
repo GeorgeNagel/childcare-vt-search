@@ -1297,16 +1297,6 @@
       "toddler_capacity": 0
     }
   },
-  "places_with_infant_availability": [
-    "Quarry Kids Academy LLC",
-    "MacAulay, Lynn"
-  ],
-  "places_with_toddler_availability": [
-    "Play Learn Grow",
-    "Zydonyk, Tiffani",
-    "Quarry Kids Academy LLC",
-    "MacAulay, Lynn",
-    "Darcy, Kristin",
-    "Martin, Kim"
-  ]
+  "places_with_infant_availability": [],
+  "places_with_toddler_availability": []
 }

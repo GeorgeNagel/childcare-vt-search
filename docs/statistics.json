@@ -1266,6 +1266,12 @@
       "infant_capacity": 165,
       "toddler_capacity": 176
     },
+    "2026-03-03": {
+      "infant_availability": 1,
+      "toddler_availability": 2,
+      "infant_capacity": 22,
+      "toddler_capacity": 16
+    },
     "2025-08-24": {
       "infant_availability": 0,
       "toddler_availability": 0,
@@ -1297,6 +1303,10 @@
       "toddler_capacity": 0
     }
   },
-  "places_with_infant_availability": [],
-  "places_with_toddler_availability": []
+  "places_with_infant_availability": [
+    "MacAulay, Lynn"
+  ],
+  "places_with_toddler_availability": [
+    "MacAulay, Lynn"
+  ]
 }
